@@ -1,17 +1,8 @@
-# flutter_application_1
+# State_Management_Codelab
 
-A new Flutter project.
+# How to use this code : 
+- first, if you want to know what is the different between Stateless and Stateful. U can run the main.dart code.
+- second, after that if you want to know what is the different between Stateless and Stateful. U can change from the void main() {runApp(MyStatefulWidgetApp());}, change MyStatefulWidgetApp() to MyStatelessApp()
+- third, run again the main.dart, then u will notice what is the diffrent between Stateless and Stateful.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# state_management_codelab
+# What is the diffferent between Stateless and Stateful 

@@ -6,3 +6,5 @@
 - third, run again the main.dart, then u will notice what is the diffrent between Stateless and Stateful.
 
 # What is the diffferent between Stateless and Stateful 
+## Stateless widget : 
+- can't change 

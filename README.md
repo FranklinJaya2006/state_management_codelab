@@ -12,4 +12,4 @@
 - can change the appearance.
 
 # Conclusion 
-## Jadi, dari hasil yang kita dapatkan bisa kita tarik kesimpulan bahwa Stateless adalah sebuah widget yang tidak dapat diubah setelah widget dibuat / Static. Sedangkan, Stateful adalah sebuah widget paling sering digunakan karena dapat berubah ubah / Dynamic
+### Jadi, dari hasil yang kita dapatkan bisa kita tarik kesimpulan bahwa Stateless adalah sebuah widget yang tidak dapat diubah setelah widget dibuat / Static. Sedangkan, Stateful adalah sebuah widget paling sering digunakan karena dapat berubah ubah / Dynamic
